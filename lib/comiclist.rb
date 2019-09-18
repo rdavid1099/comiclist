@@ -1,4 +1,4 @@
-require "comiclist/version"
+require_relative "./config/setup"
 
 module Comiclist
   class Error < StandardError; end

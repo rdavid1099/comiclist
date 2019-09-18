@@ -1,6 +1,3 @@
-require 'nokogiri'
-require 'open-uri'
-
 module Comiclist
   class Scraper
     BASE_URI = "http://www.comiclist.com/index.php/lists/comiclist-new-comic-book-releases-list-for-".freeze
