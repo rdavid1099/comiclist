@@ -31,6 +31,8 @@ module Comiclist
 
     private
     def content
+      return OpenStruct.new(children: []) unless doc
+
       doc.css("div.post-content").first
     end
 
@@ -42,8 +44,14 @@ module Comiclist
 
     def publisher_positions
       @publisher_positions ||= content.children.map.with_index do |elem, i|
-        [elem.css('b').first.text, i] if elem.css('b').first && elem.css('b').first.text != "PUBLISHER"
+        [elem.css('b').first.text, i] if element_is_publisher?(elem)
       end.compact.to_h
+    end
+
+    def element_is_publisher?(elem)
+      elem.css('b').first &&
+        elem.css('b').first.text != "PUBLISHER" &&
+        elem.css('b').first.text == elem.css('b').first.text.upcase
     end
 
     def determine_query_date(date)
