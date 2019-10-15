@@ -1,10 +1,15 @@
 module Comiclist
   class Scraper
     BASE_URI = "http://www.comiclist.com/index.php/lists/comiclist-new-comic-book-releases-list-for-".freeze
-    attr_reader :doc
+    attr_reader :doc, :query_date
 
-    def initialize(date)
-      @doc = Nokogiri::HTML(open("#{BASE_URI}#{date}"))
+    def initialize(given_date = nil)
+      @query_date = determine_query_date((given_date || Date.today).to_date)
+      @doc = begin
+         Nokogiri::HTML(open("#{BASE_URI}#{sanitized_date}"))
+      rescue OpenURI::HTTPError => error
+        nil
+      end
     end
 
     def list_of_publishers
@@ -18,6 +23,10 @@ module Comiclist
         result[elem.children.first.text] = elem.attribute('href').value if elem.children.first && elem.children.first.text
         result
       end
+    end
+
+    def sanitized_date
+      query_date.strftime("%m-%d-%Y")
     end
 
     private
@@ -35,6 +44,10 @@ module Comiclist
       @publisher_positions ||= content.children.map.with_index do |elem, i|
         [elem.css('b').first.text, i] if elem.css('b').first && elem.css('b').first.text != "PUBLISHER"
       end.compact.to_h
+    end
+
+    def determine_query_date(date)
+      7.times { |add_day| return (date + add_day) if (date + add_day).wednesday? }
     end
   end
 end
