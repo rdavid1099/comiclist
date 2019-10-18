@@ -1,0 +1,1065 @@
+HTTP/1.1 200 OK
+Date: Tue, 15 Oct 2019 22:26:04 GMT
+Server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips DAV/2 mod_auth_passthrough/2.1 mod_bwlimited/1.4
+X-Powered-By: PHP/5.2.17
+ETag: "user:anon"
+Expires: Tue, 15 Oct 2019 22:26:04 +0000
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: session_b2evo__comiclist_com=98437170_HpnaRrigljxvW8neAUkTO4WOPIqaa9yb; expires=Fri, 12-Oct-2029 22:26:05 GMT; path=/; domain=.comiclist.com
+Last-Modified: Tue, 15 Oct 2019 22:26:04 GMT
+Vary: User-Agent
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="http://www.comiclist.com/skins/comiclist/" />
+	<title>ComicList: New Comic Book Releases List for 10/16/2019</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="ComicList: The New Comic Book Releases List" />
+    <meta name="keywords" content="comics comic_books comicbooks comiclist reviews Comic Books Marvel Comics DC Comics Graphic Novels comiclink comiclife.com comicli newsarama newsarchive newsargus.com newsarse newsar" />
+	    <meta name="generator" content="b2evolution 4.1.7" /> <!-- Please leave this for stats -->
+	<meta name="feedmyinbox-site-verification" content="b4a151aa22433f1b"/>
+	<meta name="feedmyinbox-site-verification" content="91bcf905affe48c3"/>
+	<meta name="feedmyinbox-site-verification" content="550f1ff3f517d075"/>
+    	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.comiclist.com/xmlsrv/rsd.php?blog=2" />
+    <link rel="alternate" type="application/rss+xml" title="ComicList Headlines" href="http://feedproxy.google.com/comiclistcomplete" />
+    <link rel="alternate" type="application/rss+xml" title="ComicList: Shipping This Week" href="http://feedproxy.google.com/comiclistfeed" />
+    <link rel="alternate" type="application/rss+xml" title="ComicList Reviews" href="http://feedproxy.google.com/Comiclist-Reviews" />
+	<link rel="icon" href="/favicon.ico">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+	<link href="/skins/comiclist/assets/css/main.css?lm=1434378553" rel="stylesheet">
+	<link href="/skins/comiclist/assets/css/supplement.css?lm=1435361495" rel="stylesheet">
+
+	<!-- google font -->
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+	
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		  <link rel="stylesheet" href="/skins/comiclist/assets/css/ie8.css?lm=1433050586" />
+    <![endif]-->
+
+	<!-- Google Analytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-52978660-1', 'auto');
+	  ga('require', 'displayfeatures');
+	  ga('send', 'pageview');
+	</script>
+
+	<!-- WIP: Get down to just the needed tags -->
+    
+	<!-- headlines: -->
+	<script type="text/javascript" src="http://www.comiclist.com/rsc/js/jquery.min.js?v=4.1.7"></script>
+	<script type="text/javascript" src="http://www.comiclist.com/rsc/js/communication.js?v=4.1.7"></script>
+
+	<!-- /WIP -->
+</head>
+<body>
+
+<!-- Fixed navbar -->
+<nav id="main-nav" class="navbar navbar-default navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+			<a class="navbar-brand" href="http://www.comiclist.com/index.php"><img src="/skins/comiclist/assets/images/comiclist-logo-branding.png" alt="ComicList logo branding" /> <span class="sub-img"><img src="/skins/comiclist/assets/images/comiclist-logo-branding-sub.png" alt="The New Comic Book Releases List" /></span> <span class="sub-title">The New Comic Book Releases List</span></a>
+		</div>
+		<div id="navbar" class="navbar-collapse collapse">
+			<ul class="nav navbar-nav navbar-right">
+				<ul class="social-links">
+					<li class="facebook"><a href="https://www.facebook.com/pages/ComicList/6269593037" target="_blank">Facebook</a></li>
+					<li class="google"><a href="https://plus.google.com/u/0/+Comiclist" target="_blank">Google</a></li>
+					<li class="twitter"><a href="https://twitter.com/ComicList" target="_blank">Twitter</a></li>
+					<li class="rss"><a href="http://www.comiclist.com/index.php/subscribe/how_to_subscribe">How to Subscribe</a></li>
+				</ul>
+				<div class="search-sec">
+					<form action="http://www.google.com/cse" id="google-search">
+						<div>
+							<input type="text" name="q" size="16" id="google-search-query" />
+							<button type="submit" name="sa" value="Search" class="search-btn" /><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+						</div>
+					</form>
+				</div>
+			</ul>
+			<ul class="nav navbar-nav">
+				<li class="dropdown"><a href="http://www.comiclist.com/index.php/newreleases/this-week" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">This Week <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="http://www.comiclist.com/index.php/newreleases/this-week" title="New Comics Shipping This Week">All New Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/BOOMThisWeek/" title="BOOM! Studios Shipping This Week">BOOM! Studios</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/DarkHorseThisWeek/" title="Dark Horse Shipping This Week">Dark Horse</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/DCThisWeek/" title="DC Comics Shipping This Week">DC Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/DynamiteThisWeek/" title="Dynamite Entertainment Shipping This Week">Dynamite Entertainment</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/IDWThisWeek/" title="IDW Publishing Shipping This Week">IDW Publishing</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/ImageThisWeek/" title="Image Comics Shipping This Week">Image Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/MarvelThisWeek/" title="Marvel Comics Shipping This Week">Marvel Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/titan-shipping-this-week/" title="Titan Comics Shipping This Week">Titan Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/valiant-shipping-this-week/" title="Valiant Entertainment Shipping This Week">Valiant Entertainment</a></li>
+						<li><a href="http://www.comiclist.com/index.php/lists/DigitalComicsThisWeek/" title="Digital Comics Arriving This Week">Digital Comics</a></li>
+					</ul>
+				</li>
+				<li><a href="http://www.comiclist.com/index.php/newreleases/next-week" title="Next week's new comics">Next Week</a></li>
+				<li><a href="http://www.comiclist.com/index.php/lists/ExtendedForecast/">Extended Forecast</a></li>
+				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">News <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="http://www.comiclist.com/index.php/news/" title="BOOM! Studios">All News</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/boom-studios/" title="BOOM! Studios">BOOM! Studios</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/DarkHorse/" title="Dark Horse Comics">Dark Horse Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/DC/" title="DC Comics">DC Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/Dynamite/" title="Dynamite Entertainment">Dynamite Entertainment</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/IDWPublishing/" title="IDW Publishing">IDW Publishing</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/Image/" title="Image Comics">Image Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/Marvel/" title="Marvel Comics">Marvel Comics</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/valiant-entertainment/" title="Valiant Entertainment">Valiant Entertainment</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/advanced-solicitations/" title="Advanced Solicitations">Advanced Solicitations</a></li>
+											</ul>
+				</li>
+				<li><a href="http://www.comiclist.com/index.php/reviews/">Reviews</a></li>
+				<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">More <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"></span></a>
+					<ul class="dropdown-menu" role="menu">
+						<li><a href="http://www.comiclist.com/index.php/newreleases/last-week">New Last Week</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/comiclist-previews/">ComicList Previews</a></li>
+						<li><a href="http://www.comiclist.com/checklist.php">Printable Checklist</a></li>
+						<li><a href="http://www.comiclist.com/index.php/subscribe/how_to_subscribe">Subscribe</a></li>
+						<li><a href="https://www.facebook.com/pages/ComicList/6269593037">Facebook</a></li>
+						<li><a href="https://twitter.com/ComicList">Twitter</a></li>
+						<li><a href="https://plus.google.com/u/0/+Comiclist">Google +</a></li>
+						<li><a href="http://www.comiclistdatabase.com">ComicList Database</a></li>
+						<li><a href="http://www.comiclist.com/index.php/news/?disp=msgform&recipient_id=1">Contact Us</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div><!-- /navbar -->
+	</div>
+</nav>
+
+<div class="container responsive-ad-main">
+	<div class="row">
+		<div class="col-sm-12">
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- ComicList Responsive -->
+			<ins class="adsbygoogle"
+				 style="display:block"
+				 data-ad-client="ca-pub-8894729613728540"
+				 data-ad-slot="9269050016"
+				 data-ad-format="auto"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+		</div>
+	</div><!-- /row -->
+</div><!-- /container -->
+
+<header class="main">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-5 col-sm-5">
+				<a class="comiclist-logo" href="http://www.comiclist.com/index.php">
+					<img src="/skins/comiclist/assets/images/comiclist-logo@2x.png" alt="ComicList logo" />
+				</a>
+			</div>
+			<div class="col-md-6 col-sm-7">
+				<h2>The World's Greatest Comic Book Shipping Information Website!</h2>
+			</div>
+		</div><!-- /row -->
+	</div><!-- /container -->
+</header>
+
+<div class="container">
+	<div class="row">
+		<div class="col-sm-8">
+			<div class="body">
+
+				<!-- Share and Subscribe (javascript) -->
+				<div class="sharing-sec">
+					<div class="addthis_sharing_toolbox"></div>
+				</div><!-- /sharing-sec -->
+
+				
+					<div class="row pagin-north"><div class="col-xs-6"><a href="http://www.comiclist.com/index.php/lists/comiclist-dc-comics-new-releases-for-10-16-2019" title="Permanent link to full entry">&laquo; ComicList: DC Comics New Releases for 10/16/2019</a></div><div class="col-xs-6"><a href="http://www.comiclist.com/index.php/lists/comiclist-image-comics-new-releases-for-10-16-2019" title="Permanent link to full entry">ComicList: Image Comics New Releases for 10/16/2019 &raquo;</a></div></div>						<div class="post-wrapper published"  lang="en-US">
+							<h1>ComicList: New Comic Book Releases List for 10/16/2019</h1>							<div class="post-header">
+								 October 14th, 2019 8:16pm by <a href="http://www.comiclist.com/index.php/lists/?disp=user&amp;user_ID=1">ComicList</a> <a href="http://www.comiclist.com/index.php/lists/?disp=msgform&amp;post_id=44251&amp;recipient_id=1&amp;redirect_to=http%3A%2F%2Fwww.comiclist.com%2Findex.php%2Flists%2F%3Fdisp%3Dmsgform%26post_id%3D44251%26recipient_id%3D1" title="Send email to post author" rel="nofollow"><img src="http://www.comiclist.com/rsc/icons/envelope.gif" border="0" align="top" width="13" height="10"  class="middle" title="Send email to post author" alt="Email"/></a> 							</div><!-- /post-header -->
+							<div class="post-content">
+								<p><a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943865415"><img src="http://d2lzb5v10mb0lj.cloudfront.net/covers_tfaw/400/au/AUG190519.jpg" title="Flash Forward #2 (Of 6)(Cover B In-Hyuk Lee)" style="float:right;margin-left:10px;border:none;width:200px;" /></a><strong>ComicList: New Comic Book Releases List for Wednesday, October 16, 2019</strong>, a list of the comic books, graphic novels, and other products that should be available at your local or online comic book shop this week.</p>
+<a id="more44251" name="more44251"></a>
+<p>This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License, and is &copy; 1995-2019 Charles S. LePage.</p>
+
+<p>This information is compiled from a variety of sources including Diamond Distribution and our friends at <a href="http://www.shareasale.com/r.cfm?B=44882&amp;U=167587&amp;M=8908">Things From Another World</a> and <a href="http://comics.gocollect.com">GoCollect</a>.  Visit <a href="http://comics.gocollect.com">GoCollect</a> and use their next-generation, near real-time <a href="http://comics.gocollect.com">comic book price guide</a>.  To find a local comic book shop, please browse <a href="http://www.the-master-list.com/index.shtml">The Master List of Comic Book &amp; Trading Card Stores</a>.  Join us on <a href="https://www.facebook.com/pages/ComicList/6269593037" target="_blank">Facebook</a> and <a href="https://twitter.com/ComicList">Twitter</a> for discussions about your favorite comics.</p>
+
+<p>PLEASE NOTE- Not all of these titles will arrive in all stores. Let me know if any of the names or numbers are wrong.  Items with release dates not verified by Diamond Distribution are individually noted.</p>
+
+<p>Scroll down for "mature" items on page 2.</p>
+
+<p><b><u>PUBLISHER</u></b><br />
+TITLE, ISSUE NUMBER, PRICE IN U.S. DOLLARS ("AR" means "ask your retailer for the price")</p>
+
+<p><b><u>007 MAGAZINE AND ARCHIVE</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031174">007 Magazine Presents The James Bond Films Exhibitors' Pressbooks USA Volume 3 SC</a>, $25.99</p>
+
+<p><b><u>A WAVE BLUE WORLD</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864541">Dead Beats Musical Horror Anthology GN</a>, $19.99 </p>
+
+<p><b><u>AC COMICS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914366578">Femforce #187</a>, $9.95 </p>
+
+<p><b><u>ACME INK</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864667">Rock And Roll Biographies #15 (Gwar)</a>, $3.50 </p>
+
+<p><b><u>ACTION LAB ENTERTAINMENT</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fadventure-finders-edge-of-empire-3.html">Adventure Finders The Edge Of Empire #3</a>, $3.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fherald-lovecraft-and-tesla-bundles-of-joy-3.html">Herald Lovecraft And Tesla Bundles Of Joy #3</a>, $3.99 </p>
+
+<p><b><u>AFTERSHOCK COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fdark-red-7.html">Dark Red #7</a>, $3.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fkiller-groove-5.html">Killer Groove #5</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmidnight-vista-2.html">Midnight Vista #2</a>, $3.99</p>
+
+<p><b><u>AHOY COMICS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864640">Planet Of The Nerds Volume 1 TP</a>, $17.99 </p>
+
+<p><b><u>ALBATROSS FUNNYBOOKS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fspookhouse-halloween-special.html">Spookhouse Halloween Special 2019</a>, $3.99 </p>
+
+<p><b><u>AMERICAN MYTHOLOGY PRODUCTIONS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmoon-maid-3-miracolo-main-cover.html">Moon Maid #3 (Cover A Larry Watts Miracolo Variant)</a>, $3.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914366525">Moon Maid #3 (Cover A Larry Watts Miracolo Virgin Variant)</a>, $9.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fvictor-crowley-hatchet-halloween-tales-1-calzada-am-cover.html">Victor Crowley's Hatchet Halloween Tales #1 (Cover E Cyrus Mesarcia Calzada American Mythology Variant)</a>, $6.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fzorro-sacrilege-4-wolfer-main-cover.html">Zorro Sacrilege #4 (Cover A Mike Wolfer)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fzorro-sacrilege-4-hilinski-possession-cover.html">Zorro Sacrilege #4 (Cover B Mike Wolfer Hilinski Possession Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=866962719">Zorro Sacrilege #4 (Cover C Mike Wolfer Visions Of Zorro Black &amp; White Variant)</a>, $9.99</p>
+
+<p><b><u>AMIGO COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fapocalypse-girl-vol-2-provocation-1-of-4.html">Apocalypse Girl Volume 2 Provocation #1 (Of 4)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frise-of-the-tyrant-vol-01-1-of-4.html">Rise Of The Tyrant Volume 1 #1 (Of 4)</a>, $3.99</p>
+
+<p><b><u>AMP! COMICS FOR KIDS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864610">Charlie Brown All Tied Up TP</a>, $9.99 </p>
+
+<p><b><u>ANDREWS MCMEEL</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864605">Baby Blues Collection Volume 36 Surviving The Great Indoors TP</a>, $18.99 </p>
+
+<p><b><u>ARCHIE COMIC PUBLICATIONS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Farchie-708-cover-a-charm.html">Archie #708 (Cover A Derek Charm)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Farchie-708-cover-b-cabrera.html">Archie #708 (Cover B Eva Cabrera)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Farchie-708-cover-c-perez.html">Archie #708 (Cover C Ramon K. Perez)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Farchie-708-cover-d-photo.html">Archie #708 (Cover D Photo)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Farchie-married-life-10-years-later-3-cover-a-parent.html">Archie The Married Life 10 Years Later #3 (Cover A Dan Parent)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Farchie-married-life-10-years-later-3-cover-b-chaykin.html">Archie The Married Life 10 Years Later #3 (Cover B Howard Chaykin)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Farchie-married-life-10-years-later-3-cover-c-sauvage.html">Archie The Married Life 10 Years Later #3 (Cover C Marguerite Sauvage)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864558">World Of Archie Jumbo Comics Digest #93</a>, $7.99 </p>
+
+<p><b><u>ASPEN COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ffathom-vol-8-6-cover-a-campetella.html">Fathom Volume 8 #6 (Cover A Mauricio Camptella)</a>, $3.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ffathom-vol-8-6-cover-b-turner.html">Fathom Volume 8 #6 (Cover B Michael Turner)</a>, $3.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ffathom-vol-8-6-cover-c-retailer-oum.html">Fathom Volume 8 #6 (Cover C Siya Oum)</a>, AR</p>
+
+<p><b><u>AVATAR PRESS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943863399">Crossed Badlands #5 (Jacen Burrows Chicago VIP Cover)</a>, $19.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864525">Providence Complete Slipcase Set</a>, $129.99 </p>
+
+<p><b><u>BLIZZARD ENTERTAINMENT</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864513">World Of Warcraft Pop-Up Book HC</a>, $65.00</p>
+
+<p><b><u>BOOM! STUDIOS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fangel-legacy-ed-gn-vol-01.html">Angel Legacy Edition Volume 1 GN</a>, $29.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcoda-tpb-vol-03.html">Coda Volume 3 TP</a>, $14.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ffirefly-10-cover-a-main-garbett.html">Firefly #10 (Cover A Lee Garbett)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ffirefly-10-cover-b-preorder-quinones-variant.html">Firefly #10 (Cover B Joe Quinones)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022489">Firefly #10 (Cover C Rahzzah)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ffirefly-10-foc-sliney-variant.html">Firefly #10 (Cover D Will Sliney)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=971646171">Hellmouth #1 (Dan Mora 2nd Printing Variant Cover)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fonce-future-2-3rd-printing.html">Once And Future #2 (Of 6)(Jae Lee and June Chung 3rd Printing Variant Cover)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fonce-future-3-of-6.html">Once And Future #3 (Of 6)(Cover A Dan Mora)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fsomething-is-killing-children-2.html">Something Is Killing The Children #2 (Cover A Werther Dell'Edera)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=971646140">Something Is Killing The Children #2 (Cover B Ian Bertram)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914366612">Sparrow's Roar GN</a>, $14.99</p>
+
+<p><b><u>CINEBOOK</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031211">Islandia Volume 1 Boreal Landing GN</a>, $13.95 </p>
+
+<p><b><u>CLARKSON POTTER</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031208">My Smile Diary HC</a>, $14.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031209">Raina's Mini Posters HC</a>, $12.99 </p>
+
+<p><b><u>CLOVER PRESS</u></b><br />
+House Of X #1 (Of 6)(Kevin Eastman Variant Cover), $20.00 <br />
+House Of X #1 (Of 6)(Kevin Eastman Variant Cover)(Kevin Eastman Signed Edition), $40.00 <br />
+Silver Surfer Black #1 (Of 5)(Gabriel Rodriguez Variant Cover), $20.00 <br />
+Silver Surfer Black #1 (Of 5)(Gabriel Rodriguez Variant Cover)(Gabriel Rodriguez Signed Edition), $40.00 </p>
+
+<p><b><u>COFFIN COMICS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864494">Lady Death Nightmare Symphony #1 (Of 2)(Cover A Richard Ortiz)</a>, $4.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864493">Lady Death Nightmare Symphony #1 (Of 2)(Cover B Anthony Spay Ritual Variant)</a>, $4.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864492">Lady Death Nightmare Symphony #1 (Of 2)(Cover C Jim Balent Foil Variant)</a>, $25.00 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864491">Lady Death Nightmare Symphony #1 (Of 2)(Cover D Mike Debalfo Naughty Variant)</a>, $40.00 <br />
+<a href="https://comics.gocollect.com/guide/view/1022649">Lady Death Nightmare Symphony #1 (Of 2)(Cover E Jim Butler)</a>, AR</p>
+
+<p><b><u>COMIC SHOP NEWS</u></b><br />
+<a href="http://csnsider.com/">Comic Shop News #1687</a>, AR</p>
+
+<p><b><u>CONUNDRUM PRESS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864488">Dakwakada Warriors GN</a>, $20.00 </p>
+
+<p><b><u>DANGER ZONE</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Famalgama-space-zombie-1-cover-a-young.html">Amalgama Space Zombie #1 (Cover A Winston Young)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Famalgama-space-zombie-1-cover-b-young-risque.html">Amalgama Space Zombie #1 (Cover B Winston Young Risque Variant)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Famalgama-space-zombie-1-cover-c-maccagni.html">Amalgama Space Zombie #1 (Cover C Marco Maccagni)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Famalgama-space-zombie-1-cover-d-maccagni-risque.html">Amalgama Space Zombie #1 (Cover D Marco Maccagni Risque Variant)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Famalgama-space-zombie-1-cover-e-tmchu.html">Amalgama Space Zombie #1 (Cover E TMChu)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Famalgama-space-zombie-1-cover-f-tmchu-risque.html">Amalgama Space Zombie #1 (Cover F TMChu Risque Variant)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Famalgama-space-zombie-1-cover-g-chatzoudis.html">Amalgama Space Zombie #1 (Cover G Elias Chatzoudis)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Famalgama-space-zombie-1-cover-h-chatzoudis-risque.html">Amalgama Space Zombie #1 (Cover H Elias Chatzoudis Risque Variant)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fkillswitch-1-cover-a-sozomaika.html">Killswitch #1 (Cover A Sozomaika)</a>, $3.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fkillswitch-1-cover-b-alterici.html">Killswitch #1 (Cover B Natasha Alterici)</a>, $3.99 </p>
+
+<p><b><u>DARK HORSE COMICS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914367472">Aliens Vs Predator The Essential Comics Volume 1 TP</a>, $24.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914367464">Bad Luck Chuck Volume 1 TP</a>, $17.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=912120015">Black Hammer Streets Of Spiral TP</a>, $19.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914367463">Calamity Kate Volume 1 TP</a>, $17.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=913865035">Critical Role Vox Machina Origins Volume 1 TP</a>, $19.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962116">Mask I Pledge Allegiance To The Mask #1 (Of 4)(Cover A Patric Reynolds)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962099">Mask I Pledge Allegiance To The Mask #1 (Of 4)(Cover B Rafael Albuquerque)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=913865042">Minecraft Stories From The Overworld HC</a>, $14.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962094">Neil Gaiman's American Gods The Moment Of The Storm #6 (Cover A Glenn Fabry)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962133">Neil Gaiman's American Gods The Moment Of The Storm #6 (Cover B David Mack)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962144">Orville #4 (The Word Of Avis Part 2 Of 2)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962117">Steeple #2 (Of 5)(Cover A John Allison)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962103">Steeple #2 (Of 5)(Cover B Lissa Treiman)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962118">Strayed #3 (Of 5)(Cover A Juan Doe)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=940962104">Strayed #3 (Of 5)(Cover B Alexis Ziritt)</a>, $3.99</p>
+
+<p><b><u>DC COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Faquaman-53-yotv.html">Aquaman #53 (Cover A Robson Rocha &amp; Jason Paz)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Faquaman-53-sandoval-variant-yotv.html">Aquaman #53 (Cover B Rafa Sandoval)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fbatman-81-yotv.html">Batman #81 (Cover A John Romita Jr. &amp; Klaus Janson)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fbatman-81-card-stock-yotv-variant.html">Batman #81 (Cover B Francesco Mattina Card Stock Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fdollar-comics-batman-497.html">Dollar Comics Batman #497</a>, $1.00<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fflash-forward-2-of-6.html">Flash Forward #2 (Of 6)(Cover A Evan Doc Shaner)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fflash-forward-2-of-6-lee-variant.html">Flash Forward #2 (Of 6)(Cover B In-Hyuk Lee)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgoddess-mode-tpb.html">Goddess Mode TP</a>, $16.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Finferior-five-2-of-12.html">Inferior Five #2 (Of 12)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fjustice-league-34-yotv.html">Justice League #34 (Cover A Francis Manapul)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fjustice-league-34-card-stock-variant-yotv.html">Justice League #34 (Cover B Francesco Mattina Card Stock Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fjustice-league-dark-tpb-vol-02-lords-of-order.html">Justice League Dark Volume 2 Lords Of Order TP</a>, $16.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Flucifer-13.html">Lucifer #13</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031706">MAD Magazine #10</a>, $5.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmetal-men-1-of-12.html">Metal Men #1 (Of 12)(Cover A Shane Davis)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmetal-men-1-of-12-tan-variant.html">Metal Men #1 (Of 12)(Cover B Philip Tan &amp; Marc Deering)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fnightwing-65-yotv.html">Nightwing #65 (Cover A Bruno Redondo)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fnightwing-65-mhan-variant-yotv.html">Nightwing #65 (Cover B Pop Mhan)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fpowers-tpb-book-07.html">Powers Volume 7 TP (New Edition)</a>, $39.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fscooby-doo-where-are-you-101.html">Scooby-Doo Where Are You #101</a>, $2.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fsuperman-smashes-the-klan-1-of-3.html">Superman Smashes The Klan #1 (Of 3)(Cover A Gurihiru)</a>, $7.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943865399">Superman Smashes The Klan #1 (Of 3)(Cover B Kyle Baker)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fsuperman-year-one-3-of-3-romita-cover.html">Superman Year One #3 (Of 3)(Cover A John Romita Jr. &amp; Danny Miki)</a>, $7.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fsuperman-year-one-3-of-3-miller-cover.html">Superman Year One #3 (Of 3)(Cover B Frank Miller)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fsupermans-pal-jimmy-olsen-4-of-12.html">Superman's Pal Jimmy Olsen #4 (Of 12)(Cover A Steve Lieber)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fsupermans-pal-jimmy-olsen-4-of-12-robertson-variant.html">Superman's Pal Jimmy Olsen #4 (Of 12)(Cover B Darick Robertson)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftales-from-the-dark-multiverse-batman-knightfall-1.html">Tales From The Dark Multiverse Batman Knightfall #1</a>, $5.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fteen-titans-35-yotv.html">Teen Titans #35 (Cover A Bernard Chang)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fteen-titans-35-garbett-variant-yotv.html">Teen Titans #35 (Cover B Lee Garbett)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftitans-burning-rage-3-of-7.html">Titans Burning Rage #3 (Of 7)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fwonder-woman-come-back-to-me-4-of-6.html">Wonder Woman Come Back To Me #4 (Of 6)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fwonder-woman-giant-1.html">Wonder Woman Giant #1</a>, $4.99</p>
+
+<p><b><u>DEL REY</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864483">Stranger Things Novel Suspicious Minds SC</a>, $17.00 </p>
+
+<p><b><u>DYNAMIC FORCES</u></b><br />
+Amazing Spider-Man #17 (Mike Mayhew Variant Cover), AR<br />
+Merry Marvel Augustmas Super Collectors Set, AR<br />
+Trick Or Treat Trio, AR<br />
+True Believers Spider-man Vs Hulk #1 (David Michelinie Signed Edition), AR</p>
+
+<p><b><u>DYNAMITE ENTERTAINMENT</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fbettie-page-unbound-5-cover-a-royle.html">Bettie Page Unbound #5 (Cover A John Royle)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fbettie-page-unbound-5-cover-b-chantler.html">Bettie Page Unbound #5 (Cover B Scott Chantler)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fbettie-page-unbound-5-cover-c-federici.html">Bettie Page Unbound #5 (Cover C Vincenzo Federici)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fbettie-page-unbound-5-cover-d-ohta.html">Bettie Page Unbound #5 (Cover D Julius Ohta)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fbettie-page-unbound-5-cover-e-photo.html">Bettie Page Unbound #5 (Cover E Photo)</a>, $3.99<br />
+Bettie Page Unbound #5 (Cover F Lucius Ohta Black &amp; White Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1019746">Bettie Page Unbound #5 (Cover G Photo Virgin Variant)</a>, AR<br />
+Bettie Page Unbound #5 (Cover H John Royle Black &amp; White Dressed Variant), AR<br />
+Bettie Page Unbound #5 (Cover I John Royle Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1019747">Bettie Page Unbound #5 (Cover J Vincenzo Federici Virgin Variant)</a>, AR<br />
+Bettie Page Unbound #5 (Cover K John Royle Black &amp; White Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1019748">Bettie Page Unbound #5 (Cover L Scott Chantler Virgin Variant)</a>, AR<br />
+<a href="https://comics.gocollect.com/guide/view/1019749">Bettie Page Unbound #5 (Cover M Julius Ohta Black &amp; White Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fchastity-2-cover-a-nodet.html">Chastity #2 (Cover A Catherine Nodet)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fchastity-2-cover-b-garza.html">Chastity #2 (Cover B Ale Garza)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fchastity-2-cover-c-anacleto.html">Chastity #2 (Cover C Jay Anacleto)</a>, $3.99<br />
+Chastity #2 (Cover D Ale Garza Black &amp; White Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022640">Chastity #2 (Cover E Ale Garza Virgin Variant)</a>, AR<br />
+Chastity #2 (Cover F Catherine Nodet Black &amp; White Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022641">Chastity #2 (Cover G Ale Garza Black &amp; White Variant)</a>, AR<br />
+Chastity #2 (Cover H Ale Garza Black &amp; White Tint Variant), AR<br />
+Chastity #2 (Cover I Catherine Nodet Tint Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022642">Chastity #2 (Cover J Catherine Nodet Black &amp; White Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fdeath-defying-devil-3-cover-a-lee.html">Death-Defying 'Devil #3 (Cover A In-Hyuk Lee)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943865297">Death-Defying 'Devil #3 (Cover B Lucio Parrillo)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fdeath-defying-devil-3-cover-c-federici.html">Death-Defying 'Devil #3 (Cover C Riccardo Federici)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022843">Death-Defying 'Devil #3 (Cover D Riccardo Federici Black &amp; White Variant)</a>, AR<br />
+Death-Defying 'Devil #3 (Cover E Riccardo Federici Black &amp; White Virgin Variant), AR<br />
+Death-Defying 'Devil #3 (Cover F Riccardo Federici Blood Red Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022844">Death-Defying 'Devil #3 (Cover G Lucio Parrillo Crimson Devil Variant)</a>, AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022845">Death-Defying 'Devil #3 (Cover H Lucio Parrillo Blue Hue Variant)</a>, AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022846">Death-Defying 'Devil #3 (Cover I Ricardo Federici Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943865492">Death-Defying 'Devil #3 (Cover J In-Hyuk Lee Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943865491">Death-Defying 'Devil #3 (Cover K Lucio Parrillo High End Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=890347172">Robots Vs Princesses Volume 1 TP</a>, $14.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fsavage-tales-halloween-special-one-shot-0-cover-a-durso.html">Savage Tales A Red Sonja Halloween Special One Shot #1 (Cover A Erica D'Urso)</a>, $4.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022999">Savage Tales A Red Sonja Halloween Special One Shot #1 (Cover B Erica D'Urso Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864737">Vampirella #1 (1969 Replica Edition)(Frank Frazetta Blue Foil Variant Cover)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864736">Vampirella #1 (1969 Replica Edition)(Frank Frazetta Platinum Foil Variant Cover)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864738">Vampirella #1 (1969 Replica Edition)(Frank Frazetta Red Foil Variant Cover)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fvampirella-4-cover-a-lau.html">Vampirella #4 (Cover A Stanley Artgerm Lau)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fvampirella-4-cover-b-march.html">Vampirella #4 (Cover B Guillem March)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fvampirella-4-cover-c-dalton.html">Vampirella #4 (Cover C Fay Dalton)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fvampirella-4-cover-d-gunduz.html">Vampirella #4 (Cover D Ergun Gunduz)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fvampirella-4-cover-e-cosplay.html">Vampirella #4 (Cover E Cosplay)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fvampirella-4-retailer-10-copy-incentive-variant.html">Vampirella #4 (Cover F Ergun Gunduz Virgin Variant)</a>, AR<br />
+Vampirella #4 (Cover G Guillem March Black &amp; White Virgin Variant), AR<br />
+Vampirella #4 (Cover H Fay Dalton Black &amp; White Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022532">Vampirella #4 (Cover I Fay Dalton Black &amp; White Variant Cover)</a>, AR<br />
+Vampirella #4 (Cover J Guillem March Black &amp; Whie Tint Virgin Variant), AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022533">Vampirella #4 (Cover K Cosplay Virgin Variant)</a>, AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022534">Vampirella #4 (Cover L Guillem March Virgin Variant)</a>, AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022535">Vampirella #4 (Cover M Guillem March Black &amp; White Variant Cover)</a>, AR<br />
+Vampirella Roses For The Dead HC (Signed Edition), $39.99</p>
+
+<p><b><u>EAGLEMOSS PUBLICATIONS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030663">Battlestar Galactica Ships Collection Magazine #11 (Blood &amp; Chrome Raider)</a>, $60.00<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=878041986">DC Comics Batman Arkham Asylum Figurine Collection Magazine #1 (Batman)</a>, $20.00<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=898959825">DC Comics Batman Arkham Asylum Figurine Collection Magazine #3 (Harley Quinn)</a>, $20.00<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914366026">DC Comics Batman Arkham Asylum Figurine Collection Magazine #4 (Poison Ivy)</a>, $20.00<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943863944">DC Comics Batman Arkham Asylum Figurine Collection Magazine Box Set (#1-3)</a>, $59.95<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030662">DC Comics Batman Arkham Asylum Figurine Collection Magazine Special Edition #1 (Bane)</a>, $59.95<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=898959821">DC Comics CW Flash Figurine Collection Magazine #3 (Jay Garrick)</a>, $20.00<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914366023">DC Comics CW Flash Figurine Collection Magazine #4 (Reverse Flash)</a>, $20.00<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943863943">Harry Potter Wizarding World Figurine Collection Magazine (Bellatrix Lestrange)</a>, $19.95<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943863940">Harry Potter Wizarding World Figurine Collection Magazine (Hermione Granger)</a>, $19.95<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943863939">Harry Potter Wizarding World Figurine Collection Magazine (Ron Weasley With Scabbers)</a>, $19.95<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943863941">Harry Potter Wizarding World Figurine Collection Magazine (Rubeus Hagrid)</a>, $29.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fstar-trek-discovery-figure-coll-mag-17-uss-t-plana-hath.html">Star Trek Discovery The Official Starships Figurine Collection Magazine #17 (U.S.S. T'Plana Hath NCC-1004)</a>, $55.00<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030664">Star Trek The Official Bust Collection #7 (Captain Benjamin Sisko)</a>, $29.95 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030669">Star Trek The Official Starships Figurine Collection Magazine #15 (U.S.S. Excelsior NCC-2000)</a>, $75.00<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fstar-trek-starships-figure-coll-mag-158-uss-excelsior-nilo-rodis-co.html">Star Trek The Official Starships Figurine Collection Magazine #158 (U.S.S. Excelsior Nilo Rodis Concept Starship)</a>, $24.95<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fstar-trek-starships-figure-coll-mag-159-the-batris.html">Star Trek The Official Starships Figurine Collection Magazine #159 (The Batris)</a>, $24.95<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=866962185">Star Trek The Official Starships Figurine Collection Magazine Special #29 (Large U.S.S. Thunderchild Akira Class)</a>, $75.00 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030668">Star Trek The Official Starships Figurine Collection Magazine Special #32 (Scimitar)</a>, $45.00 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030658">WWE Figure Championship Collection Magazine #7 (Seth Rollins)</a>, $19.95</p>
+
+<p><b><u>FANTAGRAPHICS BOOKS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864449">Brain Bats Of Venus The Life And Comics Of Basil Wolverton Volume 2 1942-1952 HC</a>, $44.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031164">Comics Journal #304</a>, $14.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864450">Reincarnation Stories By Kim Deitch HC</a>, $29.99 </p>
+
+<p><b><u>FILMAX</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031148">Filmfax #155</a>, $9.95 </p>
+
+<p><b><u>FLOATING WORLD COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frevenger-halloween-special-one-shot.html">Revenger Halloween Special #1 (One Shot)</a>, $4.99 </p>
+
+<p><b><u>GHOST SHIP</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030829">Creature Girls A Hands-On Field Journal World In Another World Volume 2 GN</a>, $13.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=898959960">To Love Ru Darkness Volume 12 GN</a>, $12.99 </p>
+
+<p><b><u>GRAPHIC UNIVERSE</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864415">Monkey And Robot HC</a>, $17.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864414">Topside GN</a>, $14.99 </p>
+
+<p><b><u>HERMES PRESS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=878042354">Frank Thorne's Ghita An Erotic Treasury Archival Previews Exclusive Edition Volume 2 HC</a>, $150.00 </p>
+
+<p><b><u>HUMANOIDS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864402">Ignited TP</a>, $14.95 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864400">Scare City HC</a>, $14.95<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fstrangelands-4.html">Strangelands #4</a>, $3.99 </p>
+
+<p><b><u>IDW PUBLISHING</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcrow-hack-slash-4-of-4-cover-a-seeley.html">Crow Hack Slash #4 (Of 4)(Cover A Tim Seeley)</a>, $3.99<br />
+<a href="http://comics.gocollect.com/guide/view/1020742">Crow Hack Slash #4 (Of 4)(Cover B Rebekah A. Isaacs)</a>, AR<br />
+<a href="http://comics.gocollect.com/guide/view/1020743">Crow Hack Slash #4 (Of 4)(Cover C Tim Seeley Black &amp; White Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fducktales-silence-science-2-of-3-cover-a-ghiglione.html">DuckTales Silence And Science #2 (Of 3)(Cover A Marco Ghiglione)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fducktales-silence-science-2-of-3-cover-b-ghiglione.html">DuckTales Silence And Science #2 (Of 3)(Cover B Marco Ghiglione)</a>, $3.99<br />
+<a href="http://comics.gocollect.com/guide/view/1021296">DuckTales Silence And Science #2 (Of 3)(Cover C DuckTales Creative Team)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fhg-wells-the-island-of-dr-moreau-2-of-2.html">H.G. Wells' The Island Of Dr. Moreau #2 (Of 2)(Cover A Gabriel Rodr&#237;guez)</a>, $4.99<br />
+<a href="https://comics.gocollect.com/guide/view/1019837">H.G. Wells' The Island Of Dr. Moreau #2 (Of 2)(Cover B Gabriel Rodr&#237;guez Artist's Edition Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmarvel-action-black-panther-4-florean.html">Marvel Action Black Panther #4 (Cover A Arianna Florean)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1010633">Marvel Action Black Panther #4 (Cover B Paulina Ganecheau)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmy-little-pony-friendship-is-magic-83-cover-a-sherron.html">My Little Pony Friendship Is Magic #83 (Cover A Kate Sherron)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmy-little-pony-friendship-is-magic-83-cover-b-richard.html">My Little Pony Friendship Is Magic #83 (Cover B Sara Richard)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022977">My Little Pony Friendship Is Magic #83 (Cover C JustaSuta)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fstar-wars-adventures-return-to-vader-s-castle-3-cover-a-franca.html">Star Wars Adventures Return To Vader's Castle #3 (Cover A Francesco Francavilla)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fstar-wars-adventures-return-to-vader-s-castle-3-cover-b-broken.html">Star Wars Adventures Return To Vader's Castle #3 (Cover B Nick Brokenshire)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022615">Star Wars Adventures Return To Vader's Castle #3 (Cover C Francesco Francavilla Black &amp; White Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fstarcadia-quest-2-of-3-cover-a-mazzara.html">Starcadia Quest #2 (Of 3)(Cover A Aurelio Mazzara)</a>, $4.99<br />
+<a href="http://comics.gocollect.com/guide/view/1021291">Starcadia Quest #2 (Of 3)(Cover B Nicoletta Baldari)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftransformers-13-cover-a-chan.html">Transformers #13 (Cover A Winston Chan)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftransformers-13-cover-b-umi-miyao.html">Transformers #13 (Cover B Umi Miyao)</a>, $3.99<br />
+<a href="http://comics.gocollect.com/guide/view/1020987">Transformers #13 (Cover C Blacky Shepherd)</a>, AR</p>
+
+<p><b><u>IMAGE COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fanalog-9-cover-a-o-sullivan.html">Analog #9 (Cover A David O'Sullivan)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fanalog-9-cover-b-duggan-o-sullivan.html">Analog #9 (Cover B Gerry Duggan &amp; David O'Sullivan)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fexcellence-6-cover-a-randolph-lopez.html">Excellence #6 (Cover A Khary Randolph &amp; Emilio Lopez)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fexcellence-6-cover-b-visions-of-excellence-woods.html">Excellence #6 (Cover B Ashley Woods Visions Of Excellence Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgideon-falls-17-cover-a-sorrentino.html">Gideon Falls #17 (Cover A Andrea Sorrentino)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgideon-falls-17-cover-b-mccrea.html">Gideon Falls #17 (Cover B John McCrea)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgideon-falls-tpb-vol-03-stations-of-the-cross.html">Gideon Falls Volume 3 Stations Of The Cross TP</a>, $16.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943865251">Gogor TP</a>, $16.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fhit-girl-season-two-9-cover-a-shalvey.html">Hit-Girl Season Two #9 (Cover A Declan Shalvey)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fhit-girl-season-two-9-cover-b-shalvey.html">Hit-Girl Season Two #9 (Cover B Declan Shalvey)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fhit-girl-season-two-9-cover-c-greene.html">Hit-Girl Season Two #9 (Cover C Sanford Greene)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fhit-girl-season-two-9-cover-d-blank.html">Hit-Girl Season Two #9 (Cover D Blank Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmarked-1-cover-a-haberlin-van-dyke.html">Marked #1 (Cover A Brian Haberlin &amp; Geirrod Van Dyke)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmarked-1-cover-b-haberlin-van-dyke.html">Marked #1 (Cover B Brian Haberlin &amp; Geirrod Van Dyke)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frealm-15-cover-a-haun-filardi.html">Realm #15 (Cover A Jeremy Haun &amp; Nick Filardi)</a>, $3.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frealm-15-cover-b-gorham-filardi.html">Realm #15 (Cover B Adam Gorham &amp; Nick Filardi)</a>, $3.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frumble-17-cover-a-maclean.html">Rumble #17 (Cover A Andrew MacLean)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frumble-17-cover-b-harren.html">Rumble #17 (Cover B James Harren)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frumble-17-cover-c-rubin.html">Rumble #17 (Cover C David Rubin)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frumble-17-cover-d-fiumara.html">Rumble #17 (Cover D Max Fiumara)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftrees-three-fates-2-of-5.html">Trees Three Fates #2 (Of 5)</a>, $3.99</p>
+
+<p><b><u>INSIGHT EDITIONS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fa-die-hard-christmas-gift-set.html">Die Hard Christmas Gift Set HC</a>, $24.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864392">Ghostbusters Ectomobile Race Against Slime HC</a>, $29.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864388">Marvels Spider-Man From Amazing To Spectacular HC</a>, $45.00 </p>
+
+<p><b><u>INSIGHT KIDS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864380">Star Wars A Merry Sithmas Pop-Up Book HC</a>, $15.99 </p>
+
+<p><b><u>KODANSHA COMICS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864033">Boarding School Juliet Volume 8 GN</a>, $10.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864031">Granblue Fantasy Volume 1 GN</a>, $12.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864022">That Time I Got Reincarnated As A Slime Volume 11 GN</a>, $12.99 </p>
+
+<p><b><u>LITTLE BEE BOOKS</u></b><br />
+<a href="https://www.amazon.com/Jugheads-Food-Hunt-Lift-Flap/dp/1499810229/ref=as_li_ss_tl?keywords=Jughead's+Food+Hunt+A+Lift-The-Flap+Board+Book&amp;qid=1570546363&amp;sr=8-4&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=21c5ffc190c19148dec1435bf9dfed4a&amp;language=en_US">Jughead's Food Hunt A Lift-The-Flap Board Book HC</a>, $8.99 </p>
+
+<p><b><u>LOCUS MAGAZINE</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864350">Locus #705</a>, $8.99</p>
+
+<p><b><u>MARVEL COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5.html">Absolute Carnage #4 (Of 5)(Cover A Ryan Stegman)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5-codex-variant-ac.html">Absolute Carnage #4 (Of 5)(Cover B Gerardo Zaffino Codex Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5-hotz-connecting-variant.html">Absolute Carnage #4 (Of 5)(Cover C Kyle Hotz Connecting Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5-cult-of-carnage-variant-ac.html">Absolute Carnage #4 (Of 5)(Cover D Nick Bradshaw Cult Of Carnage Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5-stegman-virgin-variant-ac.html">Absolute Carnage #4 (Of 5)(Cover E Ryan Stegman Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5-lim-virgin-variant-ac.html">Absolute Carnage #4 (Of 5)(Cover F Ron Lim Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5-del-mundo-young-guns-variant.html">Absolute Carnage #4 (Of 5)(Cover G Mike Del Mundo Young Guns Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5-lim-variant.html">Absolute Carnage #4 (Of 5)(Cover H Ron Lim Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-4-of-5-christopher-action-figure-variant.html">Absolute Carnage #4 (Of 5)(Cover I John Tyler Christopher Action Figure Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-avengers-1.html">Absolute Carnage Avengers #1 (Cover A Clayton Crain)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-avengers-1-codex-variant-ac.html">Absolute Carnage Avengers #1 (Cover B Gerardo Sandoval Codex Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-avengers-1-artist-variant-ac.html">Absolute Carnage Avengers #1 (Cover C Jung-Geun Yoon)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-avengers-1-virgin-variant-ac.html">Absolute Carnage Avengers #1 (Cover D Jung-Geun Yoon Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-scream-3-of-3.html">Absolute Carnage Scream #3 (Of 3)(Cover A Gerardo Sandoval)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022580">Absolute Carnage Scream #3 (Of 3)(Cover B Gerardo Sandoval Codex Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-scream-3-of-3-bagley-connecting-variant.html">Absolute Carnage Scream #3 (Of 3)(Cover C Mark Bagley Connecting Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-symbiote-of-vengeance-1-2nd-printing.html">Absolute Carnage Symbiote Of Vengeance #1 (Juan Frigeri 2nd Printing Variant Cover)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-vs-deadpool-2-of-3-2nd-printing.html">Absolute Carnage Vs Deadpool #2 (Of 3)(Marcelo Ferreira 2nd Printing Variant Cover)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-vs-deadpool-3-of-3.html">Absolute Carnage Vs Deadpool #3 (Of 3)(Cover A Tyler Kirkham)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022577">Absolute Carnage Vs Deadpool #3 (Of 3)(Cover B Mark Bagley Codex Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fabsolute-carnage-vs-deadpool-3-of-3-connecting-variant.html">Absolute Carnage Vs Deadpool #3 (Of 3)(Cover C Rob Liefeld Connecting Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Faero-4.html">Aero #4 (Cover A Keng)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Faero-4-momoko-mary-jane-variant.html">Aero #4 (Cover B Peach Momoko Mary Jane Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fblack-panther-and-agents-of-wakanda-2.html">Black Panther And The Agents Of Wakanda #2 (Cover A Jorge Molina)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fblack-panther-and-agents-of-wakanda-2-lopez-mary-jane-variant.html">Black Panther And The Agents Of Wakanda #2 (Cover B David Lopez Mary Jane Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fblack-panther-and-agents-of-wakanda-2-sprouse-variant.html">Black Panther And The Agents Of Wakanda #2 (Cover C Chris Sprouse)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fblack-panther-and-agents-of-wakanda-2-game-variant.html">Black Panther And The Agents Of Wakanda #2 (Cover D Game Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcaptain-america-15.html">Captain America #15 (Cover A Alex Ross)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcaptain-america-15-hughes-mary-jane-variant.html">Captain America #15 (Cover B Adam Hughes Mary Jane Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcaptain-marvel-10-2nd-printing.html">Captain Marvel #10 (Carmen Carnero 2nd Printing Variant Cover)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcaptain-marvel-11.html">Captain Marvel #11 (Cover A Mark Brooks)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcaptain-marvel-11-mary-jane-variant.html">Captain Marvel #11 (Cover B Elizabeth Torque Mary Jane Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fconan-the-barbarian-9-2nd-printing.html">Conan The Barbarian #9 (Mahmud A. Asrar 2nd Printing Variant Cover)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcontagion-3-of-5.html">Contagion #3 (Of 5)(Cover A Juan Jose Ryp)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcontagion-3-of-5-browne-variant.html">Contagion #3 (Of 5)(Cover B Ryan Browne)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcrazy-1.html">Crazy #1 (Cover A John McCrea)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcrazy-1-gist-variant.html">Crazy #1 (Cover B E.M. Gist)</a>, AR<br />
+<a href="http://comics.gocollect.com/guide/view/1021088">Crazy #1 (Cover C Todd Nauck)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fguardians-of-the-galaxy-10.html">Guardians Of The Galaxy #10 (Cover A Patrick Zircher)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fguardians-of-the-galaxy-10-adams-mary-jane-variant.html">Guardians Of The Galaxy #10 (Cover B Arthur Adams Mary Jane Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fhistory-of-marvel-universe-4-of-6.html">History Of The Marvel Universe #4 (Of 6)(Cover A Steve McNiven)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fhistory-of-marvel-universe-4-of-6-rodriguez-variant.html">History Of The Marvel Universe #4 (Of 6)(Cover B Javier Rodriguez)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031458">Hit-Monkey By Daniel Way Bullets And Bananas TP</a>, $19.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=816576798">How to Paint Characters The Marvel Studios Way HC</a>, $50.00<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fimmortal-hulk-23-2nd-printing.html">Immortal Hulk #23 (Alex Ross 2nd Printing Variant Cover)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fironheart-gn-tpb-riri-williams.html">Ironheart Riri Williams TP</a>, $12.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fjourney-to-star-wars-the-rise-of-skywalker-allegiance-2.html">Journey To Star Wars The Rise Of Skywalker Allegiance #2 (Cover A Marco Checchetto)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fjourney-star-wars-rise-skywalker-allegiance-2-movie-variant.html">Journey To Star Wars The Rise Of Skywalker Allegiance #2 (Cover B Movie Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fjourney-to-star-wars-the-rise-of-skywalker-allegiance-2-ross-variant.html">Journey To Star Wars The Rise Of Skywalker Allegiance #2 (Cover C Luke Ross)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmarvel-masterworks-doctor-strange-hc-vol-09.html">Marvel Masterworks Doctor Strange Volume 9 HC (Book Market Edition)</a>, $75.00<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmarvel-masterworks-doctor-strange-hc-vol-09-dm-variant-282.html">Marvel Masterworks Doctor Strange Volume 9 HC (Direct Market Variant Edition Volume 282)</a>, $75.00<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmarvel-tales-ghost-rider-1.html">Marvel Tales Ghost Rider #1 (Cover A In-Hyuk Lee)</a>, $7.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022987">Marvel Tales Ghost Rider #1 (Cover B In-Hyuk Lee Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031460">Marvel Visionaries Steve Ditko TP</a>, $34.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fspider-man-city-at-war-tpb.html">Marvel's Spider-Man City At War TP</a>, $19.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fms-marvel-by-saladin-ahmed-tpb-vol-01.html">Ms. Marvel By Saladin Ahmed Volume 1 TP</a>, $17.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fpowers-of-x-4-of-6-2nd-printing.html">Powers Of X #4 (Of 6)(R.B. Silva 2nd Printing Variant Cover)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frunaways-by-rainbow-rowell-tpb-vol-04-but-you-cant-hide.html">Runaways By Rainbow Rowell Volume 4 But You Can't Hide TP</a>, $17.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fsavage-sword-of-conan-10.html">Savage Sword Of Conan #10 (Cover A Marco Checchetto)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022486">Savage Sword Of Conan #10 (Cover B John McCrea)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fspider-man-2-of-5.html">Spider-Man #2 (Of 5)(Cover A Olivier Coipel)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1022575">Spider-Man #2 (Of 5)(Cover B Sara Pichelli)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fstar-wars-tie-fighter-tpb.html">Star Wars Tie Fighter TP</a>, $15.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftrue-believers-x-men-jubilee-1.html">True Believers X-Men Jubilee #1</a>, $1.00<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftrue-believers-x-men-rictor-1.html">True Believers X-Men Rictor #1</a>, $1.00<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fvenom-18-2nd-printing.html">Venom #18 (Iban Coello 2nd Printing New Art Variant Cover)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031449">Write Your Own Marvel TP</a>, $14.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1.html">X-Men #1 (Cover A Leinil Francis Yu)</a>, $4.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1-artgerm-variant.html">X-Men #1 (Cover B Stanley Artgerm Lau)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1-artgerm-virgin-variant-dx.html">X-Men #1 (Cover C Stanley Artgerm Lau Virgin Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1-bagley-every-mutant-ever-variant.html">X-Men #1 (Cover D Mark Bagley Every Mutant Ever Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1-checchetto-young-guns-variant.html">X-Men #1 (Cover E Marco Checchetto Young Guns Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1-dauterman-variant-dx.html">X-Men #1 (Cover F Russell Dauterman)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1-muller-design-variant-dx.html">X-Men #1 (Cover G Tom Muller Design Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1-hidden-gem-variant-dx.html">X-Men #1 (Cover H Chris Bachalo Hidden Gem Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fx-men-1-artist-variant-dx.html">X-Men #1 (Cover I Whilce Portacio)</a>, AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022629">X-Men #1 (Cover J Mark Brooks Party Variant)</a>, AR<br />
+<a href="https://comics.gocollect.com/guide/view/1022630">X-Men #1 (Cover K Leinil Francis Yu Premiere Variant)</a>, AR</p>
+
+<p><b><u>ONE PEACE BOOKS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864020">Hinamatsuri Volume 5 GN</a>, $11.95 </p>
+
+<p><b><u>ONI PRESS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frick-morty-vs-dungeons-dragons-ii-painscape-2-cover-a-little.html">Rick And Morty Vs Dungeons And Dragons II Painscape #2 (Cover A Troy Little)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frick-morty-vs-dungeons-dragons-ii-painscape-2-cover-b-goux.html">Rick And Morty Vs Dungeons And Dragons II Painscape #2 (Cover B Nicole Goux)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frick-morty-vs-dungeons-dragons-ii-painscape-2-cover-c-look-character-she.html">Rick And Morty Vs Dungeons And Dragons II Painscape #2 (Cover C Troy Look Character Sheet Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914366308">Unplugged And Unpopular GN</a>, $12.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914366307">Unplugged And Unpopular HC</a>, $19.99 </p>
+
+<p><b><u>PENGUIN YOUNG READERS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864317">What Is The Story Of Doctor Who SC</a>, $6.99 </p>
+
+<p><b><u>PS ARTBOOKS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=898960143">Pre-Code Classics Space Adventures Volume 1 HC</a>, $45.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fpre-code-classics-space-adventures-slipcase-ed.html">Pre-Code Classics Space Adventures Volume 1 HC (Slipcase Edition)</a>, $55.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=898960141">Pre-Code Classics Strange Suspense Stories Volume 1 HC</a>, $45.99 <br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fpre-code-classics-strange-suspense-stories-slipcase-vol-01.html">Pre-Code Classics Strange Suspense Stories Volume 1 HC (Slipcase Edition)</a>, $55.99 </p>
+
+<p><b><u>REBELLION/2000AD</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=914366279">Operation Overlord #4</a>, $6.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926031002">Wildcat Volume 2 Loner TP</a>, $19.99 </p>
+
+<p><b><u>RED 5 COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fdark-age-3.html">Dark Age #3</a>, $3.95</p>
+
+<p><b><u>RENEGADE ARTS ENTERTAINMENT</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864298">Saga Of The Jack Of Spades Volume 1 GN</a>, $20.00 </p>
+
+<p><b><u>RESTLESS BOOKS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030998">Mermaid In The Bathtub GN</a>, $22.99 </p>
+
+<p><b><u>SCOUT COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmidnight-sky-2-cover-a-van-domelen.html">Midnight Sky #2 (Cover A Scott Van Domelen)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmidnight-sky-2-cover-b-van-domelen-invasion-body-snatchers.html">Midnight Sky #2 (Cover B Scott Van Domelen Invasion Of The Body Snatchers Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864278">Zinnober More Fire #1 (One Shot)</a>, $3.99</p>
+
+<p><b><u>SEVEN SEAS ENTERTAINMENT</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030733">Himouto Umari-chan Volume 7 GN</a>, $12.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030719">Skeleton Knight In Another World Light Novel Volume 3 SC</a>, $13.99 </p>
+
+<p><b><u>SUBLIME</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864126">Don't Be Cruel Volume 8 TP</a>, $12.99 </p>
+
+<p><b><u>TITAN COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fblade-runner-2019-4-cover-b-mead.html">Blade Runner 2019 #4 (Cover B Syd Mead)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fblade-runner-2019-4-cover-c-guinaldo.html">Blade Runner 2019 #4 (Cover C Andres Guinaldo)</a>, $3.99<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030938">Illuminati Ball HC</a>, $29.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Flife-is-strange-9-cover-a-leonardi.html">Life Is Strange #9 (Cover A Claudia Leonardi)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Flife-is-strange-9-cover-b-game-art.html">Life Is Strange #9 (Cover B Game Art Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Flife-is-strange-9-cover-c-tshirt.html">Life Is Strange #9 (Cover C T-Shirt Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Flife-is-strange-9-cover-d-ingranata.html">Life Is Strange #9 (Cover D Roberta Ingranata)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Flife-is-strange-9-cover-e-blank-variant.html">Life Is Strange #9 (Cover E Blank Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frobotech-remix-1-cover-a-kerschl.html">Robotech Remix #1 (Cover A Karl Kerschl)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frobotech-remix-1-cover-b-damaso.html">Robotech Remix #1 (Cover B Elmer Damaso)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frobotech-remix-1-cover-c-renzi.html">Robotech Remix #1 (Cover C Rico Renzi)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frobotech-remix-1-cover-d-action-figure-variant.html">Robotech Remix #1 (Cover D Action Figure Variant)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Frobotech-remix-1-cover-e-lam.html">Robotech Remix #1 (Cover E Jon Lam)</a>, $3.99<br />
+Robotech Remix #1 (Cover F Blank Variant), $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftank-girl-7-cover-a-parson.html">Tank Girl #7 (Cover A Brett Parson)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftank-girl-7-cover-b-bishop.html">Tank Girl #7 (Cover B Julian Bishop)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Ftank-girl-7-cover-c-kane.html">Tank Girl #7 (Cover C Shaky Kane)</a>, $3.99</p>
+
+<p><b><u>TOHAN CORPORATION</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=898960039">Megami August 2019</a>, $20.00 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=890346771">Megami July 2019</a>, $20.00 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=898960033">Newtype August 2019</a>, $20.00 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=890346770">Newtype July 2019</a>, $20.00 </p>
+
+<p><b><u>UDON ENTERTAINMENT</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=926030823">Dragon's Crown Official Artworks HC</a>, $49.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864120">Shigenori Soejima And P-Studio Art Unit Art Works 2 TP (not verified by Diamond)</a>, $39.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864121">Shigenori Soejima Art Works TP (not verified by Diamond)</a>, $39.99 </p>
+
+<p><b><u>VALIANT ENTERTAINMENT</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fkillers-4-of-5-cover-a-meyers.html">Killers #4 (Of 5)(Cover A Jonboy Meyers)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fkillers-4-of-5-cover-b-nakayama.html">Killers #4 (Of 5)(Cover B David Nakayama)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fkillers-4-of-5-cover-c-leonardi.html">Killers #4 (Of 5)(Cover C Rick Leonardi)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fkillers-4-of-5-cover-d-fish.html">Killers #4 (Of 5)(Cover D Veronica Fish)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1016602">Killers #4 (Of 5)(Cover E Whilce Portacio Pre-Order Edition Variant)</a>, AR<br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864182">Life And Death Of Toyo Harada TP</a>, $24.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fpsi-lords-5-cover-a-tedesco.html">Psi-Lords #5 (Cover A Julian Totino Tedesco)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fpsi-lords-5-cover-b-barrionuevo.html">Psi-Lords #5 (Cover B Al Barrionuevo)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fpsi-lords-5-cover-c-allen.html">Psi-Lords #5 (Cover C Raul Allen)</a>, $3.99<br />
+<a href="https://comics.gocollect.com/guide/view/1015291">Psi-Lords #5 (Cover D Scott Forbes Pre-Order Edition Variant)</a>, AR</p>
+
+<p><b><u>VAULT COMICS</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcult-classic-creature-feature-1-cover-a-bivens.html">Cult Classic Creature Feature #1 (Cover A John Bivens)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fcult-classic-creature-feature-1-cover-b-tim-daniel.html">Cult Classic Creature Feature #1 (Cover B Tim Daniel)</a>, $3.99</p>
+
+<p><b><u>VERTICAL COMICS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943863994">Knights Of Sidonia Master Edition Volume 3 GN</a>, $34.95 </p>
+
+<p><b><u>VIZ MEDIA</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864101">Dead Dead Demon's Dededede Destruction Volume 7 GN</a>, $14.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864116">Drifting Classroom Perfect Edition Volume 1 HC</a>, $34.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864100">Fire Punch Volume 8 GN</a>, $12.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864110">Komi Can't Communicate Volume 3 GN</a>, $9.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864094">That Blue Sky Feeling Volume 3 GN</a>, $10.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864108">Tokyo Ghoul:re Volume 13 GN</a>, $12.99 <br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864106">World Of RWBY The Official Companion HC</a>, $39.99</p>
+
+<p><b><u>WW NORTON</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864168">Envious Siblings And Other Morbid Nursery Rhymes HC</a>, $20.00 </p>
+
+<p><b><u>Z2 COMICS</u></b><br />
+<a href="https://www.shareasale.com/m-pr.cfm?merchantID=8908&amp;userID=167587&amp;productID=943864167">Yungblud Presents The Twisted Tales Of The Ritalin Club TP</a>, $21.99 </p>
+
+<p><b><u>ZENESCOPE ENTERTAINMENT</u></b><br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-fairy-tales-32-cover-a-coccolo.html">Grimm Fairy Tales #32 (Cover A Martin Coccolo)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-fairy-tales-32-cover-b-riveiro.html">Grimm Fairy Tales #32 (Cover B David Lorenzo Riveiro)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-fairy-tales-32-cover-c-zaldivar.html">Grimm Fairy Tales #32 (Cover C Hedwin Zaldivar)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-fairy-tales-32-cover-d-spay.html">Grimm Fairy Tales #32 (Cover D Anthony Spay)</a>, $3.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-tales-of-terror-2019-halloween-ed-cover-a-vitorino.html">Grimm Tales Of Terror 2019 Halloween Edition (Cover A Igor Vitorino)</a>, $5.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-tales-of-terror-2019-halloween-ed-cover-b-riveiro.html">Grimm Tales Of Terror 2019 Halloween Edition (Cover C Derlis Santacruz)</a>, $5.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-tales-of-terror-2019-halloween-ed-cover-c-santacruz.html">Grimm Tales Of Terror 2019 Halloween Edition (Cover D Alfredo Reyes)</a>, $5.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-tales-of-terror-2019-halloween-ed-cover-d-reyes.html">Grimm Tales Of Terror 2019 Halloween Edition (Cover E Martin Coccolo)</a>, $5.99<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fgrimm-tales-of-terror-2019-halloween-ed-cover-e-coccolo.html">Grimm Tales Of Terror 2019 Halloween Special (Cover B David Lorenzo Riveiro)</a>, $5.99</p>
+
+<p><b><u>Cards - DYNAMITE ENTERTAINMENT</u></b><br />
+Dejah Thoris Trading Card Box, AR</p>
+
+<p><b><u>Cards - TOPPS COMPANY</u></b><br />
+<a href="https://www.amazon.com/s/ref=as_li_ss_tl?k=Topps+2019+Star+Wars+Journey+To+Episode+9+Trading+Card+Box&amp;ref=nb_sb_noss&amp;linkCode=ll2&amp;tag=comiclthenewc-20&amp;linkId=3d956c8a9d8a168b0fa74c1c92b3de55&amp;language=en_US">Topps 2019 Star Wars Journey To Episode 9 Trading Card Box</a>, AR</p>
+
+<p><b><u>Games - HASBRO TOY GROUP</u></b><br />
+<a href="https://www.amazon.com/Monopoly-Game-Disney-Family-Board/dp/B07MCW3B3M/ref=as_li_ss_tl?keywords=Monopoly+Avengers+Edition+Game&amp;qid=1570549619&amp;sr=8-6&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=ebc551b30c6c64dd4d87ac547aded8f1&amp;language=en_US">Monopoly Avengers Edition Game</a>, AR<br />
+<a href="https://www.amazon.com/Monopoly-Game-Disney-Family-Board/dp/B07MCW3B3M/ref=as_li_ss_tl?keywords=Monopoly+Avengers+Edition+Game&amp;qid=1570549619&amp;sr=8-6&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=ebc551b30c6c64dd4d87ac547aded8f1&amp;language=en_US">Monopoly Disney The Lion King Edition Game</a>, AR</p>
+
+<p><b><u>Games - KONAMI DIGITAL ENTERTAINMENT</u></b><br />
+<a href="https://www.amazon.com/Yu-Gi-Oh-TCG-Duel-Devastator-Box/dp/B07TDSBC3K/ref=as_li_ss_tl?keywords=yu-gi-oh+tcg+duel+devastator+box&amp;qid=1570549698&amp;sr=8-1&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=84bea5d1d27f55c0a202cb8c867ba42c&amp;language=en_US">Yu-Gi-Oh TCG Duel Devestator Box</a>, AR</p>
+
+<p><b><u>Games - MANTIC GAMES</u></b><br />
+<a href="https://www.amazon.com/s/ref=as_li_ss_tl?k=Hellboy+Board+Game+The+Wild+Hunt+Expansion&amp;ref=nb_sb_noss&amp;linkCode=ll2&amp;tag=comiclthenewc-20&amp;linkId=f207d4a14156ce32d2dac7a7b898a229&amp;language=en_US">Hellboy Board Game The Wild Hunt Expansion</a>, AR</p>
+
+<p><b><u>Games - PAIZO</u></b><br />
+<a href="https://www.amazon.com/Pathfinder-Adventure-Path-Fires-Haunted/dp/1640781927/ref=as_li_ss_tl?keywords=Pathfinder+Adventure+Path+Fires+Of+The+Haunted+City+Age+Of+Ashes+4&amp;qid=1570930697&amp;sr=8-1&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=58e8e181c76932288853996f0c89db47&amp;language=en_US">Pathfinder Adventure Path Fires Of The Haunted City Age Of Ashes 4 Of 6 (P2)</a>, AR<br />
+<a href="https://www.amazon.com/Pathfinder-Critical-Fumble-Paizo-Staff/dp/1640781900/ref=as_li_ss_tl?keywords=Pathfinder+Critical+Fumble+Deck+(P2)&amp;qid=1570549965&amp;sr=8-1&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=d932b824147c5d2187fb2c276082e9b9&amp;language=en_US">Pathfinder Critical Fumble Deck (P2)</a>, AR<br />
+<a href="https://www.amazon.com/Pathfinder-Lost-Omens-Character-Guide/dp/1640781935/ref=as_li_ss_tl?keywords=Pathfinder+Lost+Omens+Character+Guide+HC+(P2)&amp;qid=1570549942&amp;sr=8-1-fkmr0&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=72b1a8b9f8a27972ff888cdf987cea23&amp;language=en_US">Pathfinder Lost Omens Character Guide HC (P2)</a>, AR<br />
+<a href="https://www.amazon.com/Pathfinder-Flip-Mat-Bigger-Flooded-Dungeon/dp/1640781641/ref=as_li_ss_tl?keywords=Pathfinder+Flip-Mat+Bigger+Flooded+Dungeon&amp;qid=1570549922&amp;sr=8-1&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=ecc9963344cc2adef6209cb0b01519c7&amp;language=en_US">Pathfinder RPG Flip-Mat Bigger Flooded Dungeon</a>, AR<br />
+<a href="https://www.amazon.com/Pathfinder-Flip-Tiles-Darklands-Starter-Set/dp/164078165X/ref=as_li_ss_tl?keywords=Pathfinder+RPG+Flip-Tiles+Darklands+Starter+Set&amp;qid=1570549887&amp;sr=8-1-fkmr0&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=b0ad795a209d1ca47244171301909a1a&amp;language=en_US">Pathfinder RPG Flip-Tiles Darklands Starter Set</a>, AR<br />
+<a href="https://www.amazon.com/Starfinder-Adventure-Path-Huskworld-Attack/dp/1640781633/ref=as_li_ss_tl?keywords=Starfinder+Adventure+Path+Attack+Swarm+3+Of+6&amp;qid=1570549836&amp;sr=8-3&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=642267721a7e92a5f00ddcf6ba54fd80&amp;language=en_US">Starfinder Adventure Path Huskworld Attack Of The Swarm 3 Of 6</a>, AR<br />
+<a href="https://www.amazon.com/Starfinder-Pawns-Dawn-Flame-Collection/dp/1640781625/ref=as_li_ss_tl?keywords=Starfinder+Dawn+Of+Flame+Pawn+Collection&amp;qid=1570549820&amp;sr=8-1&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=4a70bef88dcd5ca1a431721b7132e925&amp;language=en_US">Starfinder RPG Dawn Of Flame Pawn Collection</a>, AR</p>
+
+<p><b><u>Games - WIZARDS OF THE COAST</u></b><br />
+<a href="https://www.amazon.com/Wizards-Coast-RPG-Baldurs-Alternate/dp/0786966874/ref=as_li_ss_tl?keywords=Dungeons+And+Dragons+RPG+Baldur's+Gate+Descent+Into+Avernus&amp;qid=1570639549&amp;sr=8-1&amp;linkCode=ll1&amp;tag=comiclthenewc-20&amp;linkId=b8dfdca17ca8caeee18f199883ff4907&amp;language=en_US">Dungeons And Dragons RPG Baldur's Gate Descent Into Avernus HC</a>, AR</p>
+
+<p><b><u>Merchandise</u></b><br />
+2020 Zenescope Entertainment Cosplay Calendar, AR<br />
+30 Minute Mission 03 Multi Booster Unit Model Accessory, AR<br />
+Aurora Green Dragon 12 Inch Plush, AR<br />
+Aurora Pegasus Skies 8 Inch Plush, AR<br />
+Aurora Pink 8 Inch Llama Plush, AR<br />
+Aurora Purple 8 Inch Llama Plush, AR<br />
+Aurora Teal 8 Inch Llama Plush, AR<br />
+Avatar The Last Airbender Pastel Aang Pin, AR<br />
+Avatar The Last Airbender Pastel Katara Pin, AR<br />
+Avatar The Last Airbender Pastel Sokka Pin, AR<br />
+Avatar The Last Airbender Pastel Toph Pin, AR<br />
+Avatar The Last Airbender Pastel Zuko Pin, AR<br />
+Avengers 4 Legends 6 Inch Action Figure Assortment 201903, AR<br />
+Batman Collectible Dome Light, AR<br />
+Beetlejuice Wooden Push Puppet, AR<br />
+Bettie Page Don't Tread On Me Enamel Pin, AR<br />
+Bettie Page Tattoo Flash Enamel Pin, AR<br />
+Bettie Page Wild Orchid Enamel Pin, AR<br />
+Black Hammer Logo And Emblem Limited Edition Enamel Pin Set, AR<br />
+Cards Of X, AR<br />
+Castlevania Gallery Trevor Belmont PVC Figure, AR<br />
+Crash Bandicoot Aku Aku Life Size Mask, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fdc-gallery-joker-comic-pvc-figure.html">DC Gallery Joker Comic PVC Figure</a>, AR<br />
+Dragon Ball GT Super Saiyan 4 Son Goku Figure-Rise Standard Model Kit (New Package Version), AR<br />
+Dragon Ball GT Super Saiyan 4 Vegeta Figure-Rise Standard Model Kit (New Package Version), AR<br />
+Dragon Ball Heroes Super Saiyan 4 Gogeta GT Ichiban Figure, AR<br />
+Dragon Ball Heroes Super Saiyan 4 Vegito Xeno Ichiban Figure, AR<br />
+Dragon Ball Heroes Super Saiyan God Super Saiyan Vegito Ichiban Figure, AR<br />
+Dragon Ball Heroes The Masked Saiyan Ichiban Figure, AR<br />
+Dragon Ball Heroes Ultra Instinct Son Goku Ichiban Figure, AR<br />
+Dragon Ball Z Vegeta Magic Mug And Coaster Set, AR<br />
+Friday The 13th Jason Mascot Mask, AR<br />
+Funko Dark Crystal Deet Action Figure, AR<br />
+Godzilla 1962 Walking Pose 11 Inch PVC Statue, AR<br />
+Harry Potter Lord Voldemort Q-Fig Figure, AR<br />
+Hatsune Miku Racing 2017 Team Ukyo Cheering Figure, AR<br />
+Hatsune Miku Racing Racing Miku 2015 Figure, AR<br />
+Horror Pennywise 3D Soft Touch PVC Magnet, AR<br />
+Injustice 2 The Flash Previews Exclusive 1/18 Scale Figure, AR<br />
+Kamen Rider 000 Tatoba Combo S.H.Figuarts, AR<br />
+Kamen Rider Den-O Sofvics Kamen Rider Den-O Ichiban Figure (Net, AR<br />
+Kamen Rider Double Cyclone Joker Figure-Rise Standard Model Kit, AR<br />
+Kamen Rider Double Heat Metal Figure-Rise Standard Model Kit, AR<br />
+Kamen Rider W Sofvics Kamen Rider W Ichiban Figure, AR<br />
+Kamen Rider Zi-O Sofvics Kamen Rider Geiz Ichiban Figure, AR<br />
+Kotobuki Squadron Wilderness Kirie And Hayabusa Figuarts Mini, AR<br />
+Last Man Standing Shinsuke Nakamura 100% Bearbrick, AR<br />
+Marvel Avengers Logo Soft Touch PVC Magnet, AR<br />
+<a href="https://www.shareasale.com/r.cfm?u=167587&amp;b=84187&amp;m=8908&amp;afftrack=special&amp;urllink=https%3A%2F%2Fwww.tfaw.com%2Fmarvel-gallery-punisher-comic-pvc-figure.html">Marvel Gallery Punisher Comic PVC Figure</a>, AR<br />
+Marvel Super Deadpool ARTFX Statue (2nd Edition Version), AR<br />
+Masuimi Max Sizzle Enamel Pin, AR<br />
+Miyoni 12 Inch Sloth Plush, AR<br />
+My Hero Academia Age Of Heroes Uravity Figure, AR<br />
+Naruto Shippuden Vibration Stars Sasuke Uchiha Figure, AR<br />
+One Piece Glitter And Glamour Nico Robin Color Walk V1 Figure, AR<br />
+One Piece Glitter And Glamour Nico Robin Color Walk V2 Figure, AR<br />
+One Piece Monkey D Luffy Japanese Style Figure, AR<br />
+One Piece Roronoa Zoro Japanese Style Figure, AR<br />
+One Piece Stampede Movie DXF The Grandlinemen Figure, AR<br />
+Pac-Man Pixelated Light, AR<br />
+POP Ad Icons Strawberry Short Kook Vin Figure, AR<br />
+POP Disney Toy Story 4 Alien Vinyl Figure, AR<br />
+POP Harry Potter Fleur Delacour Yule Vinyl Figure, AR<br />
+POP Harry Potter Harry Potter Yule Vinyl Figure, AR<br />
+POP Harry Potter Professor Sybill Trelawney Vinyl Figure, AR<br />
+POP Harry Potter Viktor Krum Yule Vinyl Figure, AR<br />
+Pop Mart Baby Sushi 12 Piece Blind Box, AR<br />
+Pop Mart Goobi The Kid Fox 12 Piece Blind Box, AR<br />
+POP TV Dawson's Creek S1 Joey Vinyl Figure, AR<br />
+POP TV Dawson's Creek S1 Pacey Vinyl Figure, AR<br />
+POP TV The Office Kevin Malone With Chili Vinyl Figure, AR<br />
+Power Rangers Lightning 6 Inch In Space Psycho/Lost Galaxy Red Rangers 2 Pack, AR<br />
+Power Rangers Lightning Mighty Morphin Power Rangers Lord Zedd 6 Inch Action Figure, AR<br />
+Rachel Rising Zoe Limited Edition Enamel Pin, AR<br />
+Robocop Battle Damaged Robocop ReAction Figure, AR<br />
+Robocop Robocop ReAction Figure, AR<br />
+Robocop Toxic Waste Emil Antonowsky ReAction Figure, AR<br />
+Sailor Moon Pretty Guardian Q-Posket Princess Serenity Figure, AR<br />
+Sailor Moon Pretty Guardian Q-Posket Sailor Moon Figure, AR<br />
+Sanrio Hello Kitty PVC Figural Coin Bank, AR<br />
+Sanrio My Melody PVC Figural Coin Bank, AR<br />
+Shovel Knight Statue, AR<br />
+Space Invaders 400% Bearbrick, AR<br />
+SSSS Gridman Defo Real Soft Vinyl Statue, AR<br />
+Star Wars BB-8 Utility Mat, AR<br />
+Star Wars Black Hyperreal Darth Vader 8 Inch Action Figure, AR<br />
+Star Wars Black Series 6 Inch Action Figure Assortment 201903, AR<br />
+Star Wars Black Series Clone Commander Gree 6 Inch Action Figure, AR<br />
+Star Wars C3PO 3D Foam Magnet, AR<br />
+Star Wars Chewbacca 3D Foam Magnet, AR<br />
+Star Wars Chewbacca Chibi Ceramic Sculpted Mug, AR<br />
+Star Wars Color Changing Vader Vs Kenobi Ceramic Mug, AR<br />
+Star Wars Darth Vader 3D Foam Magnet, AR<br />
+Star Wars Darth Vader Chibi Ceramic Sculpted Mug, AR<br />
+Star Wars Han Solo 3D Foam Magnet, AR<br />
+Star Wars Han Solo Carbonite Ceramic Sculpted Mug, AR<br />
+Star Wars Luke Skywalker 3D Foam Magnet, AR<br />
+Star Wars Princess Leia 3D Foam Magnet, AR<br />
+Star Wars R2D2 3D Foam Magnet, AR<br />
+Star Wars R2D2 Chibi Ceramic Sculpted Mug, AR<br />
+Star Wars Stormtrooper 3D Foam Magnet, AR<br />
+Star Wars Super Star Destroyer Vehicle Model, AR<br />
+Star Wars Vintage 3-3/4 Inch Action Figure Assortment 201905, AR<br />
+Star Wars Yoda 3D Foam Magnet, AR<br />
+Storm Collectibles Gears Of War Augustus Cole 1/12 Scale Action Figure, AR<br />
+Storm Collectibles Mortal Kombat 3 Scorpion Action Figure, AR<br />
+Storm Collectibles Street Fighter V Cammy Battle Costume Action Figure, AR<br />
+Strangers In Paradise Francine And Katchoo Limited Edition Pin Set, AR<br />
+Toy Story Lots O Huggin Bear 100% And 400% Bearbrick 2 Pack, AR<br />
+Transformers Cyberverse Scout Action Figure Assortment 201902, AR<br />
+Transformers Cyberverse Ultimate Action Figure Assortment 201902, AR<br />
+Transformers Cyberverse Ultra Action Figure Assortment 201902, AR<br />
+Transformers Cyberverse Ultra Action Figure Assortment 201903, AR<br />
+Transformers Cyberverse Warrior Action Figure Assortment 201902, AR<br />
+Transformers Cyberverse Warrior Action Figure Assortment 201903, AR<br />
+Transformers Megatron Autobot Version Furai Model Kit, AR<br />
+Ultraman The Animation Ultraman S.H.Figuarts Action Figure, AR<br />
+Wonder Woman Invisible Jet And Cheetah Pin Mates, AR</p>
+
+<p>&copy; 1995-2019 Charles S. LePage. This work is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License. To view a copy of this license, visit <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">http://creativecommons.org/licenses/by-nc-sa/3.0/us/</a> or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA. Any questions regarding the use of this work should be directed to Charles LePage at <a href="mailto:chuck@comiclist.com">chuck@comiclist.com</a>.</p>
+
+<p class="right">Pages: 1 &middot; <a href="http://www.comiclist.com/index.php/lists/comiclist-new-comic-book-releases-list-for-10-16-2019?page=2">2</a></p>							</div><!-- /post-content -->
+							<div class="clearfix"></div>
+															<div class="post-footer">
+									<div class="post-categories">Categories: <a href="http://www.comiclist.com/index.php/lists/ShippingThisWeek/" title="Browse category">Comics Shipping This Week</a>, <a href="http://www.comiclist.com/index.php/lists/ComicLists/" title="Browse category">ComicLists</a></div><div class="post-tags">Tags: <a href="http://www.comiclist.com/index.php/lists/comiclists:">comiclists</a>, <a href="http://www.comiclist.com/index.php/lists/ncrl:">ncrl</a>, <a href="http://www.comiclist.com/index.php/lists/shipping+this+week:">shipping this week</a></div><a href="http://www.comiclist.com/index.php/lists/comiclist-new-comic-book-releases-list-for-10-16-2019" title="Permalink">Permalink</a> 									| <a href="http://www.comiclist.com/index.php/subscribe/how_to_subscribe" rel="alternate" type="application/rss+xml">Subscribe</a>
+																	</div><!-- /post-footer -->
+													</div><!-- /post-wrapper -->
+					
+					
+					<div class="posts-pagination">
+											</div><!-- /posts-pagination -->
+
+				
+				<div class="fb-comments" data-href="http://www.comiclist.com/index.php/lists/comiclist-new-comic-book-releases-list-for-10-16-2019" data-numposts="5" data-colorscheme="light" data-width="100%"></div>
+			</div><!-- /body -->
+		</div><!-- /col-sm-8 -->
+		<div class="col-sm-4">
+			<div class="social-sec side">
+				<p>Subscribe</p>
+				<ul class="social-links">
+					<li class="facebook"><a href="https://www.facebook.com/pages/ComicList/6269593037" target="_blank">Facebook</a></li>
+					<li class="google"><a href="https://plus.google.com/u/0/+Comiclist" target="_blank">Google</a></li>
+					<li class="twitter"><a href="https://twitter.com/ComicList" target="_blank">Twitter</a></li>
+					<li class="rss"><a href="http://www.comiclist.com/index.php/subscribe/how_to_subscribe">How to Subscribe</a></li>
+				</ul>
+			</div>
+						<div class="aside">
+				<div class="latest-lists">
+					<div class="widget_core_coll_post_list"><h3>Latest ComicLists</h3><ul><li><a href="http://www.comiclist.com/index.php/newreleases/this-week">ComicList: New Comic Book Releases List for 10/16/2019</a></li><li><a href="http://www.comiclist.com/index.php/newreleases/next-week">ComicList: New Comic Book Releases List for 10/23/2019 (2 Weeks Out)</a></li><li><a href="http://www.comiclist.com/index.php/newreleases/last-week">ComicList: New Comic Book Releases List for 10/09/2019</a></li></ul></div>				</div>
+
+				
+				<div class="ad-right">
+
+
+					<a href="//comixology.sjv.io/c/1189376/406577/7303"><img src="https://www.opmpros.com/host/comixology/images/banners/FreeTrialWD_300x250.jpg" border="0" alt="comixology" class="img-responsive" /></a><img height="0" width="0" src="//comixology.sjv.io/i/1189376/406577/7303" style="position:absolute;visibility:hidden;" border="0" />
+
+
+				</div>
+
+								<div class="latest-headlines">
+					<div class="widget_core_coll_post_list"><h3>Headlines</h3><ul><li><a href="http://www.comiclist.com/index.php/news/comiclist-previews-something-is-killing-the-children-2">ComicList Previews: SOMETHING IS KILLING THE CHILDREN #2</a></li><li><a href="http://www.comiclist.com/index.php/news/comiclist-previews-star-wars-adventures-return-to-vader-s-castle-3">ComicList Previews: STAR WARS ADVENTURES RETURN TO VADER'S CASTLE #3</a></li><li><a href="http://www.comiclist.com/index.php/news/comiclist-previews-adventure-finders-the-edge-of-empire-3">ComicList Previews: ADVENTURE FINDERS THE EDGE OF EMPIRE #3</a></li><li><a href="http://www.comiclist.com/index.php/news/comiclist-previews-my-little-pony-friendship-is-magic-83">ComicList Previews: MY LITTLE PONY FRIENDSHIP IS MAGIC #83</a></li><li><a href="http://www.comiclist.com/index.php/news/comiclist-previews-h-g-wells-the-island-of-dr-moreau-2">ComicList Previews: H.G. WELLS' THE ISLAND OF DR. MOREAU #2</a></li></ul></div>					<p class="link-more"><a href="http://www.comiclist.com/index.php/news/">more <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a></p>
+				</div>
+				
+								<div class="latest-reviews">
+					<div class="widget_core_coll_post_list"><h3>Comic Reviews</h3><ul><li><a href="http://www.comiclist.com/index.php/reviews/the-comixalaxy-reviews-x-men-gold-volume-1-back-to-basics-tp">The Comixalaxy Reviews: X-MEN GOLD VOLUME 1 BACK TO BASICS TP</a></li><li><a href="http://www.comiclist.com/index.php/reviews/the-comixalaxy-reviews-action-comics-987">The Comixalaxy Reviews: ACTION COMICS #987</a></li><li><a href="http://www.comiclist.com/index.php/reviews/fantastic-reads-4-u-batman-26">Fantastic Reads 4 U: BATMAN #26</a></li><li><a href="http://www.comiclist.com/index.php/reviews/fantastic-reads-4-u-green-arrow-20">Fantastic Reads 4 U: GREEN ARROW #20</a></li><li><a href="http://www.comiclist.com/index.php/reviews/fantastic-reads-4-u-teen-titans-5">Fantastic Reads 4 U: TEEN TITANS #5</a></li></ul></div>					<p class="link-more"><a href="http://www.comiclist.com/index.php/reviews/">more <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span></a></p>
+				</div>
+				
+				<div class="acronyms">
+					<h3>The Acronyms List</h3>
+					<dl class="closed">
+						<dt>AR -</dt><dd>Ask retailer for price</dd>
+						<dt>BD -</dt><dd>Blu-ray Disc</dd>
+						<dt>CCG -</dt><dd>Collectible card game</dd>
+						<dt>CD -</dt><dd>Compact disc</dd>
+						<dt>DVD -</dt><dd>Digital versatile disc</dd>
+						<dt>FCBD -</dt><dd>Free Comic Book Day</dd>
+						<dt>GN -</dt><dd>Graphic novel</dd>
+						<dt>HC -</dt><dd>Hardcover</dd>
+						<dt>HD -</dt><dd>High definition</dd>
+						<dt>LCG -</dt><dd>Living Card Game</dd>
+						<dt>MMPB -</dt><dd>Mass market paperback</dd>
+						<dt>PVC -</dt><dd>Polyvinyl chloride</dd>
+						<dt>RPG -</dt><dd>Role playing game</dd>
+						<dt>SC -</dt><dd>Softcover</dd>
+						<dt>TBD -</dt><dd>To be determined</dd>
+						<dt>TCG -</dt><dd>Trading card game</dd>
+						<dt>TP -</dt><dd>Trade paperback</dd>
+						<dt>UDA -</dt><dd>Upper Deck Authenticated</dd>
+						<dt>WDCC -</dt><dd>Walt Disney Classics Collection</dd>
+						<dt>WS -</dt><dd>Widescreen</dd>
+					</dl>
+					<p class="show-more closed"><a href="javascript:" data-href="#">show more <span class="glyphicon glyphicon-plus" aria-hidden="true"></span></a></p>
+				</div>
+				<div class="about">
+					<h3>About ComicList</h3>
+					<div class="wrap">
+						<p>ComicList was founded Jan. 12, 1995 with the mission of empowering comic book consumers by providing accurate and timely information. By delivering the weekly list of new releases, along with news concerning current and future products available in local and online comic book shops, we enable consumers to meet their goals more effectively.</p>
+						<p>The new releases list, which details the comic books, graphic novels, trade paperbacks, and other products you will find in your local and online comic book shops, is posted weekly every Monday night. Our site also offers the latest news, previews, and reviews, updated every day.</p>
+						<p>Receive ComicList updates via <a href="http://www.comiclist.com/index.php/subscribe/how_to_subscribe">email or RSS feeds</a>, and follow us on <a href="https://twitter.com/ComicList">Twitter</a> and <a href="https://www.facebook.com/pages/ComicList/6269593037">Facebook</a>.  You can also find us as Agent ComicList in <a href="https://apps.facebook.com/avengersalliance/">Avengers Alliance</a> and Squire Valiant Snail in <a href="https://www.heroup.com/new-visitor/">Super Hero Squad Online</a>.</p>
+						<p>Editor In Chief: Charles LePage</p>
+						<p>Reviewer In Chief: <a href="https://www.facebook.com/brandon.borzelli">Brandon Borzelli</a></p>
+						<p>Web Designer: <a href="http://www.artjohnny.com/">John Chanthana</a></p>
+						<p>Graphics Designer: Emilio Amaral Marques de Morais</p>
+					</div>
+				</div>
+			</div><!-- /aside -->
+		</div><!-- /col-sm-4 -->
+	</div><!-- /row -->
+</div><!-- /container -->
+
+<footer class="site-footer">
+	<div class="north">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-xs-12">
+					<ul class="site-links">
+						<li>
+							<a href="http://www.comiclist.com/index.php/lists/?disp=msgform&amp;recipient_id=1&amp;redirect_to=http%3A%2F%2Fwww.comiclist.com%2Findex.php%2Flists%2Fcomiclist-new-comic-book-releases-list-for-10-16-2019%3Fblog%3D2%26disp%3Dsingle%26title%3Dcomiclist-new-comic-book-releases-list-for-10-16-2019%26more%3D1%26c%3D1%26tb%3D1%26pb%3D1" title="Send a message to the owner of this blog..." class="contact_link">Contact</a>						</li>
+						<li><a href="http://www.comiclist.com/index.php/subscribe/how_to_subscribe">Subscribe</a></li>
+						<li><a href="http://www.comiclistdatabase.com">ComicList Database</a></li>
+						<li><a href="http://www.comiclist.com/checklist.php">Printable Checklist</a></li>
+					</ul>
+				</div>
+				<div class="col-md-4 col-xs-12">
+					<ul class="social-links">
+						<li class="facebook"><a href="https://www.facebook.com/pages/ComicList/6269593037" target="_blank">Facebook</a></li>
+						<li class="google"><a href="https://plus.google.com/u/0/+Comiclist" target="_blank">Google</a></li>
+						<li class="twitter"><a href="https://twitter.com/ComicList" target="_blank">Twitter</a></li>
+						<li class="rss"><a href="http://www.comiclist.com/index.php/subscribe/how_to_subscribe">RSS</a></li>
+					</ul>
+				</div>
+			</div><!-- /row -->
+		</div><!-- /container -->
+	</div><!-- /north -->
+	<div class="south">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<div class="content">
+						<p>
+							<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10-blue" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+							<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a>
+						</p>
+						<p>
+							ComicList: The New Comic Book Releases List by Charles LePage @ ComicList.com is licensed under a
+							<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+							To obtain a physical copy of this license, send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+						</p>
+						<p>Any questions regarding the use of this work should be directed to Charles LePage at chuck@comiclist.com.</p>
+					</div>
+					<div class="brdr"></div>
+				</div>
+				<div class="col-xs-12">
+					<div class="content">
+						<p>&copy; 1995 - 2019 by Charles LePage, ComicList.com. All Rights Reserved.</p>
+						<p>All comic book images are used solely for identification purposes. All rights to comic book images reserved by their respective copyright holders.</p>
+					</div>
+				</div>
+			</div>
+		</div><!-- /container -->
+	</div><!-- /south -->
+</footer>
+
+<!-- fb sdk -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=245668665457479";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- /fb sdk -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="/skins/comiclist/assets/js/ie10-viewport-bug-workaround.js"></script>
+<script src="/skins/comiclist/assets/js/comiclist.js?lm=1435594933"></script>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=comiclist" async="async"></script>
+<script src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+
+</body>
+</html>
