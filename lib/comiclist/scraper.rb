@@ -1,12 +1,13 @@
 module Comiclist
   class Scraper
     BASE_URI = "http://www.comiclist.com/index.php/lists/comiclist-new-comic-book-releases-list-for-".freeze
+    NEXT_WEEK = "http://www.comiclist.com/index.php/newreleases/next-week"
     attr_reader :doc, :query_date
 
     def initialize(given_date = nil)
       @query_date = determine_query_date((given_date || Date.today).to_date)
       @doc = begin
-         Nokogiri::HTML(open("#{BASE_URI}#{sanitized_date}"))
+         Nokogiri::HTML(open(query_url))
       rescue OpenURI::HTTPError => error
         nil
       end
@@ -56,6 +57,18 @@ module Comiclist
 
     def determine_query_date(date)
       7.times { |add_day| return (date + add_day) if (date + add_day).wednesday? }
+    end
+
+    def query_date_is_next_week?
+      (Date.today.wday - query_date.wday) >= 0
+    end
+
+    def query_url
+      if query_date_is_next_week?
+        NEXT_WEEK
+      else
+        "#{BASE_URI}#{sanitized_date}"
+      end
     end
   end
 end
